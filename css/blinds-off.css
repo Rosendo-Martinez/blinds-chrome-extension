@@ -1,0 +1,3 @@
+.top-blind, .right-blind, .bottom-blind, .left-blind {
+    display: none !important;
+}
